@@ -1,2 +1,0 @@
-# Dhruv
- CECS 105
